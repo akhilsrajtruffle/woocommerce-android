@@ -517,8 +517,8 @@
         Delete Shipment Tracking
     -->
     <style name="Woo.Delete.Button" parent="android:TextAppearance.DeviceDefault">
-        <item name="android:background">@drawable/delete_button_selector</item>
-
+        <item name="android:src">@drawable/delete_button_bg</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
     </style>
 
 </resources>
