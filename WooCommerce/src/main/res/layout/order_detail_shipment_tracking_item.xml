@@ -68,7 +68,7 @@
         android:layout_height="@dimen/shipment_tracking_delete_button_width"
         android:padding="@dimen/shipment_tracking_delete_button_padding"
         android:contentDescription="@string/orderdetail_delete_tracking"
-        android:scaleType="fitCenter"
+        android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
